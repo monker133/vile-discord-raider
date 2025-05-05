@@ -6,3 +6,4 @@ HOW TO USE:
 4: put multi-tool.py on desktop
 5: double click on setup.bat and your good to go
 oh yeah and python must be installed.
+ ![Image Alt](https://github.com/monker133/vile-discord-raider/blob/main/Screenshot%202025-05-05%20162110.png?raw=true)
