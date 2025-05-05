@@ -3,5 +3,6 @@ HOW TO USE:
 1: download zip
 2: open it and extract it
 3: open multi-tool folder
-4: double click on setup.bat and your good to go
+4: put multi-tool.py on desktop
+5: double click on setup.bat and your good to go
 oh yeah and python must be installed.
